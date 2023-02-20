@@ -12,6 +12,8 @@
 
     PAGINA WEB DE ALURA - Articulo
   
+  <A HREF="http://xxx.yyy.zzz/AA/BB/CC/DD/pagina.html"> Esta es una pagina en otro computador </A>
+  
     <A HREF="https://www.aluracursos.com/blog/flexbox-css-guia-completo-elementos-y-ejemplos"</A>
 
     PAGINA DE JUEGO DE FLEXBOX
