@@ -1,15 +1,29 @@
-👌[FLEXBOX - POSICIONAMIENTO](https://juan-matias.github.io/FlexBox-Posicionamiento/)
 
+👌[FLEXBOX - POSICIONAMIENTO](https://juan-matias.github.io/JuanMatias-one-challenge-encriptador/)
+2
+​
+6
+<p align="center" >
+  <img src="https://github.com/Juan-Matias/FlexBox-Posicionamiento/blob/93f7f6cc86afff1ea4a43af6313f1c4886bbabb2/Imagen.PNG">
+7
+
+8
+</p>
+9
+
+asd
 
 # ⚠ Paginas Web - Referentes de ayuda
-
-<p align="center" >
-     https://github.com/Juan-Matias/FlexBox-Posicionamiento/blob/6b26e4208b3f9e04ec90a979882da83248f1cabb/Imagen.PNG
-</p>
-
-
 <div align="center">
-    <img src="https://img.shields.io/badge/JavaScript-5A5A5A?logo=javascript&logoColor=yelllow"/>
-    <img src="https://img.shields.io/badge/HTML-5A5A5A?logo=html5" />
-    <img src="https://img.shields.io/badge/CSS-5A5A5A?logo=css3&logoColor=01A3D8" />
+
+    PAGINA WEB DE ALURA - Articulo
+12
+    <src="https://www.aluracursos.com/blog/flexbox-css-guia-completo-elementos-y-ejemplos">
+
+13
+    PAGINA DE JUEGO DE FLEXBOX
+    <src="http://flexboxfroggy.com/#es">
+    <src="http://www.flexboxdefense.com">
+15
 </div>
+
