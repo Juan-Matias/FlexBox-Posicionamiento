@@ -13,8 +13,6 @@
     PAGINA WEB DE ALURA - Articulo
     <A HREF="https://www.aluracursos.com/blog/flexbox-css-guia-completo-elementos-y-ejemplos"> Articulo de flexbox </A>
     
-  <A HREF="http://xxx.yyy.zzz/AA/BB/CC/DD/pagina.html"> Esta es una pagina en otro computador </A>
-      <A HREF="http://xxx.yyy.zzz/AA/BB/CC/DD/pagina.html"> Esta es una pagina en otro computador </A>
     PAGINA DE JUEGO DE FLEXBOX
     <A HREF=" http://flexboxfroggy.com/#es"> Juego de la Rana </A>
     <A HREF="http://www.flexboxdefense.com"> Juego de Combate </A>
