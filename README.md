@@ -10,7 +10,9 @@
 # ⚠ Paginas Web - Referentes de ayuda
 <div align="center">
 
+  <A HREF="http://xxx.yyy.zzz/AA/BB/CC/DD/pagina.html"> Esta es una pagina en otro computador </A>
     PAGINA WEB DE ALURA - Articulo
+  <A HREF="http://xxx.yyy.zzz/AA/BB/CC/DD/pagina.html"> Esta es una pagina en otro computador </A>
     <A HREF="https://www.aluracursos.com/blog/flexbox-css-guia-completo-elementos-y-ejemplos"> Articulo de flexbox </A>
     
     <A HREF="http://xxx.yyy.zzz/AA/BB/CC/DD/pagina.html"> Esta es una pagina en otro computador </A>
