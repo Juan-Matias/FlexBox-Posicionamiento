@@ -15,6 +15,7 @@
     
     PAGINA DE JUEGO DE FLEXBOX
   <A HREF="http://flexboxfroggy.com/#es"> Juego de la Rana </A>
+  <br></br>
   <A HREF="http://www.flexboxdefense.com"> Juego de Combate </A>
   
 </div>
