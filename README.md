@@ -14,7 +14,7 @@
   <A HREF="https://www.aluracursos.com/blog/flexbox-css-guia-completo-elementos-y-ejemplos"> Articulo </A>
     
     PAGINA DE JUEGO DE FLEXBOX
- ❤ <A HREF="http://flexboxfroggy.com/#es"> Juego de la Rana </A>
+  <A HREF="http://flexboxfroggy.com/#es"> Juego de la Rana </A>
   <br></br>
   <A HREF="http://www.flexboxdefense.com"> Juego de Combate </A>
   
