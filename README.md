@@ -4,7 +4,7 @@
 # ⚠ Paginas Web - Referentes de ayuda
 
 <p align="center" >
-     https://www.aluracursos.com/blog/flexbox-css-guia-completo-elementos-y-ejemplos
+     https://github.com/Juan-Matias/FlexBox-Posicionamiento/blob/6b26e4208b3f9e04ec90a979882da83248f1cabb/Imagen.PNG
 </p>
 
 
