@@ -11,6 +11,7 @@
 <div align="center">
 
     PAGINA WEB DE ALURA - Articulo
+  <HREF="http://xxx.yyy.zzz/AA/BB/CC/DD/pagina.html">
     https://www.aluracursos.com/blog/flexbox-css-guia-completo-elementos-y-ejemplos
 
     PAGINA DE JUEGO DE FLEXBOX
