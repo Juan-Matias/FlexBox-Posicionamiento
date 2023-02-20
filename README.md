@@ -1,4 +1,4 @@
-👌[FLEXBOX - POSICIONAMIENTO](https://juan-matias.github.io/JuanMatias-one-challenge-encriptador/)
+👌[FLEXBOX - POSICIONAMIENTO](https://juan-matias.github.io/FlexBox-Posicionamiento/)
 
 
 # ⚠ Paginas Web - Referentes de ayuda
