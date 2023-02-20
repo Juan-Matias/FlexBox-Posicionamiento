@@ -12,11 +12,11 @@
 
     PAGINA WEB DE ALURA - Articulo
   
-    <src="https://www.aluracursos.com/blog/flexbox-css-guia-completo-elementos-y-ejemplos">
+    <A HREF="https://www.aluracursos.com/blog/flexbox-css-guia-completo-elementos-y-ejemplos">
 
     PAGINA DE JUEGO DE FLEXBOX
-    <src="http://flexboxfroggy.com/#es">
-    <src="http://www.flexboxdefense.com">
+    <A HREF="http://flexboxfroggy.com/#es">
+    <A HREF="http://www.flexboxdefense.com">
 
 </div>
 
