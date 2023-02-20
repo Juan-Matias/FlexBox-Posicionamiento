@@ -11,12 +11,11 @@
 <div align="center">
 
     PAGINA WEB DE ALURA - Articulo
-    <A HREF="https://www.aluracursos.com/blog/flexbox-css-guia-completo-elementos-y-ejemplos"> Articulo de flexbox </A>
+  <A HREF="http://www.flexboxdefense.com"> Juego de Combate </A>
     
     PAGINA DE JUEGO DE FLEXBOX
   <A HREF=" http://flexboxfroggy.com/#es"> Juego de la Rana </A>
-    <A HREF=" http://flexboxfroggy.com/#es"> Juego de la Rana </A>
-    <A HREF="http://www.flexboxdefense.com"> Juego de Combate </A>
+  <A HREF="http://www.flexboxdefense.com"> Juego de Combate </A>
   
 </div>
 
