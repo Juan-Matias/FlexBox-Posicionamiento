@@ -1,6 +1,6 @@
-
+<p align="left" >
 👌[FLEXBOX - POSICIONAMIENTO](https://juan-matias.github.io/JuanMatias-one-challenge-encriptador/)
-
+</p>
 
 <p align="center" >
   <img src="https://github.com/Juan-Matias/FlexBox-Posicionamiento/blob/93f7f6cc86afff1ea4a43af6313f1c4886bbabb2/Imagen.PNG">
